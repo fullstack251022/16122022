@@ -1,0 +1,4 @@
+https://www.w3resource.com/java-exercises/collection/index.php#arraylist
+
+נא לעשות תרגילים מ1-9
+אם מישהו רוצה לעשות יותר אז שווה
